@@ -5,3 +5,6 @@
 
 def greet(name):
   print(f"Hello {name}")
+
+#79. Functions with Inputs 10min
+
